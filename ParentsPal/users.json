@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "username": "mariam",
+        "email": "hi@ga.com",
+        "password": "scrypt:32768:8:1$xxYbyI8FZnv67kZL$357fd445b4d62b38022bfeca8489f457508fdb9d40f5b2191f38eefbb234ca4d26bdad44fd8dec26f3c1d49f3ae6eb816f7546855c98d18a945051e06e55e5b9"
+    },
+    {
+        "id": 2,
+        "username": "hi",
+        "email": "hi@12.com",
+        "password": "scrypt:32768:8:1$wphCqNwgcuyOxUr6$7cf1c39f331ec40c71ae664325d7f9e750d80b11e11cf5388b844b49760473fbbf45cbd597a2f635f01fd83c41d65d74d58588f142ba8eab979849e4c00c5711"
+    },
+    {
+        "id": 3,
+        "username": "bye",
+        "email": "hi@12.com",
+        "password": "scrypt:32768:8:1$wphCqNwgcuyOxUr6$7cf1c39f331ec40c71ae664325d7f9e750d80b11e11cf5388b844b49760473fbbf45cbd597a2f635f01fd83c41d65d74d58588f142ba8eab979849e4c00c5711"
+    },
+    {
+        "id": 4,
+        "username": "Sarah",
+        "email": "Sarah@gmail.com",
+        "password": "scrypt:32768:8:1$IMUeLbkU6biUWZgk$7231a3cc60b376e71945dcf167019debdd4a7cf78189b90eefd2144319c83bb45c3eaadd7447382f6f8d1788f87ea2ffa686483715e91dbace87ee1c4c6f2fe5"
+    },
+    {
+        "id": 5,
+        "username": "test1",
+        "email": "skjkd@jsjsd.com",
+        "password": "scrypt:32768:8:1$ND2sPcq9vntZpH85$e020ac882df4e1f0e52fa1aae415e1e8ba9c4460020fb4c0ea5345ff00c739ec2c5ebbfc858a1890d3f53475a637345464da89e2ae5f286f2dea59b4441e9d23"
+    }
+]
