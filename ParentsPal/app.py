@@ -15,7 +15,7 @@ app.secret_key = 'your_secret_key'  # Replace with your actual secret key
 socketio = SocketIO(app)
 
 # Set your OpenAI API key here
-openai.api_key = 'your_secret_key'
+openai.api_key = 'your_openAI_key'
 # Load Q&A data from file
 with open(r'ParentsPal/qa_pairs.json', 'r', encoding='utf-8') as file:
     qa_data = json.load(file)
